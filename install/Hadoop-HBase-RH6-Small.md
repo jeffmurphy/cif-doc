@@ -2,7 +2,9 @@
 
 # Preamble
 
-The CIFv2 uses the Cloudera distribution of Hadoop/HBase.
+The CIFv2 uses the Cloudera distribution of Hadoop/HBase. For very-small (single server) installations this can be done on the CIF server itself. For small (two server) installations, this can be done on a separate machine, allowing the CIF server to connect to the HBase port. 
+
+These instructions are for Hadoop/HBase sans authentication (just uses IPTables to control access to the HBase instance).
 
 ## Cloudera
 

@@ -14,7 +14,7 @@ This doc is for installing CIF v2 (small) on one of the following (minimum versi
 ## Hadoop/HDFS/Hbase
 
 
-[Install HBase/HDFS from Cloudera](Hadoop-HBase-RH6-Small). For ultra-small, you can locate this on the same server as CIF. For small, locate it on a single separate server. 
+[Install HBase/HDFS from Cloudera](Hadoop-HBase-RH6-Small.md). For ultra-small, you can locate this on the same server as CIF. For small, locate it on a single separate server. 
 
 ## CIF
 

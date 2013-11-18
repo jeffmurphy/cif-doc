@@ -50,7 +50,7 @@ CentOS6/RedHat6/Amazon Linux AMI 2013 is the operating system in which CIF v2 is
 
 In theory any current Unix/Linux operating system should be able to run CIF. The challenge may be installing the required applications and dependencies.
 
-* [RH6/CentOS6/Amazon AMI](ServerInstall_v2_RH6_Small)
+* [RH6/CentOS6/Amazon AMI](ServerInstall_v2_RH6_Small.md)
 
 ### Disk Layout
 ---
